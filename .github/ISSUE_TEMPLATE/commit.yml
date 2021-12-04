@@ -20,7 +20,7 @@ body:
     attributes:
       label: Commit Goals
       description: What are your goals for 2022? Not sure, check your 2021 stats with [GitHub Wrap](https://lowcode.land/ghwrap/)
-      placeholder: 1997
+      placeholder: '1997'
     validations:
       required: true
   - type: input
