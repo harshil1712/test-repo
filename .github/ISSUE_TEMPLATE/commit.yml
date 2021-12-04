@@ -28,7 +28,7 @@ body:
     attributes:
       label: Pull Request Goals
       description: How many PRs you plan to contribute in 2022?
-      placeholder: 12
+      placeholder: '12'
     validations:
       required: false
   - type: input
@@ -36,4 +36,4 @@ body:
     attributes:
       label: Issue Goals
       description: You can help projects by reporting bugs or suggesting new features. Planning to contribute there? Tell us the number.
-      placeholder: 17
+      placeholder: '17'
